@@ -1,0 +1,20 @@
+{
+  "name": "af-lab-sheet-4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "run",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YasinduRasangaKarawita/AF-Lab-Sheet-4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YasinduRasangaKarawita/AF-Lab-Sheet-4/issues"
+  },
+  "homepage": "https://github.com/YasinduRasangaKarawita/AF-Lab-Sheet-4#readme"
+}
